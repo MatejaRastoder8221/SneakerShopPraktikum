@@ -1,0 +1,59 @@
+.mojaIkonica {
+	color: black;
+	margin-right: 20px;
+}
+.mojeDugme{
+	margin: 0 5px;
+}
+
+.mojA{
+	color: black;
+}
+
+.tranzicije {
+	transition: 1s;
+}
+
+#shopProducts a {
+	color: black;
+}
+
+.formaUspeh {
+	color: rgb(29, 172, 29);
+}
+
+.invisible {
+	display: none;
+}
+
+.formaGreska {
+	color: red !important;
+	display: block;
+}
+
+.bojaIkonice {
+	color: black;
+}
+
+.bojaIkonice:hover {
+	color: gray;
+}
+
+.fas{
+	color:black;
+}
+#cartPopup{
+	display: none;
+  	justify-content: center;
+  	align-items: center;
+	margin-top: 10%;
+}
+#buySuccess{
+	display: none;
+  	justify-content: center;
+  	align-items: center;
+	margin-top: 10%;
+}
+.image-cart{
+	height: 15vh;
+  }
